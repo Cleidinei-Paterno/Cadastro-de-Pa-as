@@ -6,7 +6,7 @@ if(peso > 99) {
     console.log("A peça não pode ser cadastrada, não possui o peso mínimo")
 }
 
-let listaPecas = ["Disco de Freio", "Amortecedor", "Virabrequim", "Vela", "Bateria", "Radiador", "Correia", "Ignição", "Carter"]
+let listaPecas = ["Disco de Freio", "Amortecedor", "Virabrequim", "Vela", "Bateria", "Radiador", "Correia", "Ignição", "Carter", "Embreagem"]
 
 let numeroPecas = listaPecas.length;
 
